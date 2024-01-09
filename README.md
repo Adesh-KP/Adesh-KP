@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Adesh-KP.
-- 👀 I’m interested in native app development.
-- 🌱 I’m currently learning React Native.
+- 👀 I’m interested in Network .
+- 🌱 I’m currently learning CCNP.
 - 💞️ I’m looking to collaborate on live project to learn more.
 - 📫 How to reach me
-Email-kumaradesh889@gmail.com
+Email-adyykp@gmail.com.com
 
 
 <!---
